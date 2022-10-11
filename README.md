@@ -11,7 +11,7 @@
 
 ## About Myself:
 
-- 👨‍🎓 I'm studied B.E. Electronics and Communication Engineering from <a href="http://jnnce.ac.in/jnndemo/">JNNCE</a>, Shivamogga.
+- 👨‍🎓 I've studied B.E. Electronics and Communication Engineering from <a href="http://jnnce.ac.in/jnndemo/">JNNCE</a>, Shivamogga.
 
 - 🔭 I’m currently working on [My Recipe Book App](https://github.com/manoj633/recipe-book)
 
