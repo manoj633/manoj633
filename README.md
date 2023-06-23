@@ -23,11 +23,9 @@
 
 - 😄 Pronouns: He/Him
 
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects and complete MERN stack.
 
 - 👀 I love to explore new technologies
-
-- 🌱 I am pasionate about Web Technology.
 
 - 📄 Know more about me [https://](https://)
 
