@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **manojshimoga38@gmail.com**
 
-- 😄 Pronouns: He/Him
-
 - 🥅 2023 Goals: Contribute more to Open Source projects and complete MERN stack.
 
 - 👀 I love to explore new technologies
