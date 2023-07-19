@@ -13,7 +13,7 @@
 
 - 👨‍🎓 I've studied B.E. Electronics and Communication Engineering from <a href="http://jnnce.ac.in/jnndemo/">JNNCE</a>, Shivamogga.
 
-- 🔭 I’m currently working on [ElectroMart](https://github.com/manoj633/ElectroMart)
+- 🔭 I’m currently working on [ElectroMart](https://github.com/manoj633/ElectroMart_V1)
 
 - 🧠 I’m currently learning **Full stack development [MERN].**
 
