@@ -69,7 +69,7 @@
 <!--  TOP LANGUAGES STATISTICS -->
 
 ### Most used Language
-**Note** This statistics gives the most used language in my project/repo not my programming language skill percentage.
+**Note** This statistics gives the most used language in my project/repo not my programming language skill percentage. 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj633&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
