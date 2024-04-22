@@ -87,13 +87,6 @@
  
  ---
  
- <div align="center"> 
-<b>Random dev joke for you!</b></br></br>
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
-</div>
-
----
-
 <h3 align="left">🌐 Connect 🔗 or follow me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manoj-m-shimoga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manoj-m-shimoga/" height="30" width="40" /></a>
