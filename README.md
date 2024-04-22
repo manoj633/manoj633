@@ -62,9 +62,16 @@
   
  ![Github stats](https://github-readme-stats.vercel.app/api?username=manoj633) 
  
- 
- 
+
  ---
+
+ <details>
+
+ ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manoj633&theme=radical&hide_border=true)
+ 
+ </details>![image](https://github.com/manoj633/manoj633/assets/42727681/05468883-54f1-4513-84de-d648555321c0)
+
+---
 
 <!--  TOP LANGUAGES STATISTICS -->
 
