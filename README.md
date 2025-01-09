@@ -11,9 +11,8 @@
 
 ## About Myself:
 
-- 👨‍🎓 I've studied B.E. Electronics and Communication Engineering from <a href="http://jnnce.ac.in/jnndemo/">JNNCE</a>, Shivamogga.
 
-- 🔭 I’m currently working on [ElectroMart](https://github.com/manoj633/ElectroMart_V1)
+- 🔭 I’m currently working on [Stride](https://github.com/manoj633/stride)
 
 - 🧠 I’m currently learning **Full stack development [MERN].**
 
@@ -21,15 +20,13 @@
 
 - 📫 How to reach me **manojshimoga38@gmail.com**
 
-- 🥅 2024 Goals: Contribute more to Open Source projects and complete MERN stack.
+- 🥅 2024 Goals: Contribute to Open Source projects and complete the MERN stack.
 
 - 👀 I love to explore new technologies
 
 - 📄 Know more about me [https://](https://)
 
 - 🇮🇳 I'm from India.
-
-- ⚡ FunFact: I love to spend most of my time using my laptop (hobby projects and others) and listening to Beethoven 🎶 😆.
 
 ---
 
@@ -62,18 +59,12 @@
   
  ![Github stats](https://github-readme-stats.vercel.app/api?username=manoj633) 
  
-
- ---
-
-
- ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manoj633&theme=radical&hide_border=true)
-
 ---
 
 <!--  TOP LANGUAGES STATISTICS -->
 
 ### Most used Language
-**Note** This statistics gives the most used language in my project/repo not my programming language skill percentage. 
+**Note** This statistic gives the most used language in my project/repo, not my programming language skill percentage. 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj633&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
@@ -101,4 +92,4 @@
 **If you like my profile and other repositories ⭐ the repository and fork it if you want.**
 
 
-**Thank you for visiting my github profile have a nice day.**
+**Thank you for visiting my GitHub profile have a nice day.**
