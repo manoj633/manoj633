@@ -72,13 +72,6 @@
  ---
  ### Commits per day:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manoj633)<br><br>
-
-
----
- 
- <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manoj633&theme=github)
  
  ---
  
