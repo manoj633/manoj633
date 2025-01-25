@@ -22,8 +22,6 @@
 
 - 🥅 2024 Goals: Contribute to Open Source projects and complete the MERN stack.
 
-- 👀 I love to explore new technologies
-
 - 📄 Know more about me [https://](https://)
 
 - 🇮🇳 I'm from India.
