@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **manojshimoga38@gmail.com**
 
-- 🥅 2024 Goals: Contribute to Open Source projects and complete the MERN stack.
+- 🥅 2025 Goals: Contribute to Open Source projects and complete the MERN stack.
 
 - 🇮🇳 I'm from India.
 
