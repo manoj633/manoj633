@@ -22,8 +22,6 @@
 
 - 🥅 2025 Goals: Contribute to Open Source projects and complete the MERN stack.
 
-- 🇮🇳 I'm from India.
-
 ---
 
 ### Resume and Portofolio
