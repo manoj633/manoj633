@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/42727681/190483064-ad539b73-8ab3-4c39-8374-d887813a256d.png" style="float:center">
 
 <h1 align="center">Hi 👋, I'm Manoj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 ----
 
