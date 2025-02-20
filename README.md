@@ -67,10 +67,4 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/manoj-m-shimoga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manoj-m-shimoga/" height="30" width="40" /></a>
 </p>
-
 ---
-
-**If you like my profile and other repositories ⭐ the repository and fork it if you want.**
-
-
-**Thank you for visiting my GitHub profile have a nice day.**
