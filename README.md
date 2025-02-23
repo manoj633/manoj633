@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Stride](https://github.com/manoj633/stride)
 
-- 🧠 I’m currently learning **Full stack development [MERN].**
+- 🧠 I’m currently learning **Webpack and various design patterns.**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/manoj633)
 
