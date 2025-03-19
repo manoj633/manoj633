@@ -12,7 +12,7 @@
 ## About Myself:
 
 
-- 🔭 I’m currently working on [Stride](https://github.com/manoj633/stride)
+- 🔭 I’m currently working on DSA based on JavaScript
 
 - 🧠 I’m currently learning **Webpack and various design patterns.**
 
