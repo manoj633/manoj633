@@ -12,7 +12,7 @@
 ## About Myself:
 
 
-- 🔭 I’m currently working on Node.js
+- 🔭 I’m currently working on Node.js and DSA using Java
 
 - 🧠 I’m currently learning **Webpack and various design patterns.**
 
