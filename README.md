@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on Node.js and DSA using Java
 
-- 🧠 I’m currently learning **Webpack and various design patterns.**
+- 🧠 I’m currently learning **Agentic AI.**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/manoj633)
 
