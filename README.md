@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **manojshimoga38@gmail.com**
 
-- 🥅 2025 Goals: Upskill in Agentic AI.
+- 🥅 2025 Goals: Upskill in Agentic AI and MPC.
 
 ---
 
