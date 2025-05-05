@@ -12,7 +12,7 @@
 ## About Myself:
 
 
-- 🔭 I’m currently working on Node.js and DSA using Java
+- 🔭 I’m currently working on MongoDB and DSA using Java
 
 - 🧠 I’m currently learning **Agentic AI.**
 
