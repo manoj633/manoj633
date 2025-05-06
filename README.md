@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on MongoDB and DSA using Java
 
-- 🧠 I’m currently learning **Agentic AI.**
+- 🧠 I’m currently learning **Agentic AI and MongoDB.**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/manoj633)
 
