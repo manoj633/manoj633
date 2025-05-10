@@ -81,7 +81,7 @@ I'm a full-stack developer with a strong foundation in Java and web technologies
 
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=manoj633\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=manoj633)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -89,7 +89,7 @@ I'm a full-stack developer with a strong foundation in Java and web technologies
 
 | Stats                                                                                                                 | Languages                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoj633\&show_icons=true\&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj633\&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoj633\&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj633\&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
 ---
 
