@@ -13,7 +13,7 @@
 
 I'm a full-stack developer with a strong foundation in Java and web technologies, currently diving deep into Agentic AI and modern web architectures. I love solving problems through code and constantly learning new tools and frameworks. My work spans everything from frontend UI/UX to backend services, and increasingly AI-integrated apps.
 
-* 🔭 Currently working on **MongoDB and DSA using Java**
+* 🔭 Currently working on **MongoDB and DSA using Java and on an application called Stride**
 * 🌱 Learning **Agentic AI**, **MongoDB**, and **Prompt Engineering**
 * 👨‍💻 My portfolio of work: [GitHub Projects](https://github.com/manoj633)
 * 📫 Reach me at: **[manojshimoga38@gmail.com](mailto:manojshimoga38@gmail.com)**
